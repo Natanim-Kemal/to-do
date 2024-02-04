@@ -33,5 +33,5 @@ The ToDo Web App is a simple task management application that allows users to cr
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/todo-web-app.git
+   git clone https://github.com/Natanim-Kemal/todo-web-app.git
    cd todo-web-app
